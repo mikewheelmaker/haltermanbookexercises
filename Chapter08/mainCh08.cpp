@@ -20,4 +20,6 @@ int main()
 		cout << "The hypotenuse is of length: " << hypotenuse << '\n';
 	}
 	cout << '\n';
+
+	return 0;
 }
